@@ -6,10 +6,7 @@
 
 The notebook shows the jupyter notebook with python code to extract, transform, and load the data into vs.code. I then utilized the clean data to analyze the:
 
-🎶 Danceability
-🎶 Energy
-🎶 Liveness
-🎶 Valence
+🎶 Danceability 🎶 Energy 🎶 Liveness 🎶 Valence 🎶
   
  per Beatles album, so I could see how they correlate or change over time.
 
