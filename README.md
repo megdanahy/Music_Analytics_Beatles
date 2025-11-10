@@ -4,7 +4,7 @@
 
 ---
 
-[This notebook](https://github.com/megdanahy/Music_Analytics_Beatles/blob/main/beatles_analysis.ipyn) shows the jupyter notebook with python code to extract, transform, and load the data into vs.code. I then utilized the clean data to analyze the:
+[This notebook](beatles_analysis.ipynb) shows the jupyter notebook with python code to extract, transform, and load the data into vs.code. I then utilized the clean data to analyze the:
 
 🎶 Danceability 🎶 Energy 🎶 Liveness 🎶 Valence 🎶
   
